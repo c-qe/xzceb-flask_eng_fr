@@ -1,6 +1,8 @@
 """
 translator.py
 This module contains the functions for translating english phrases into french and viceverse.
+
+@author: c-qe
 """
 import os
 from ibm_watson import LanguageTranslatorV3
