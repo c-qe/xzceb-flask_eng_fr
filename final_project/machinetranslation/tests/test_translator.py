@@ -1,5 +1,7 @@
 '''
 test_translator.py
+
+@author: c-qe
 '''
 import sys
 import unittest
