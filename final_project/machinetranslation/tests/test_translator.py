@@ -3,11 +3,7 @@ test_translator.py
 
 @author: c-qe
 '''
-import sys
 import unittest
-
-sys.path.append("/Users/ka0s/Documents/05.Study/IBM - Python Project for AI & Application Development/ \
-  project/xzceb-flask_eng_fr/final_project/machinetranslation/tests")
 
 from translator import english_to_french, french_to_english
 
